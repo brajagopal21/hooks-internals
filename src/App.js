@@ -1,8 +1,7 @@
 import React from 'react';
-import './style.css';
 
 export default function App() {
   return (
-    <p>Hooks Internals</p>
+    <h1>Hooks Internals</h1>
   );
 }
